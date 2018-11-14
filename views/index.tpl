@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, inital-scale=1.0">
-	<title>Verkefni 6</title>
+	<title>Verkefni 7</title>
 	<link rel="stylesheet" type="text/css" href="/static/style.css">
 </head>
 <body>
