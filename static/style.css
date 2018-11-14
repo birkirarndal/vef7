@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	max-width: 25em;
+	margin: 0 auto;
+	font-family: sans-serif;
+	background-color: lightgray;
+
+	border: 1px solid gray;
+	padding: 1em;
+	border-radius: 5px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+input{
+    border-radius: 5px;   
+}
+input[type='submit']{
+    text-align: center;
+
+}
