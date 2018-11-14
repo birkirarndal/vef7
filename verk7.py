@@ -1,4 +1,3 @@
-from sys import argv
 import pymysql
 from bottle import *
 
